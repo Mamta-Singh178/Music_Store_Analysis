@@ -11,5 +11,6 @@ Window functions like RANK and DENSE_RANK
 The project demonstrates how SQL can be used to extract meaningful business insights from raw data.
 
 Schema- Music Store Database
+
 <img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/87e3a6d6-fbd8-415d-b198-decfed7f1cc0" />
 
